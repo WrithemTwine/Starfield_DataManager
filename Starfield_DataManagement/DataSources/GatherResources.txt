@@ -1,0 +1,31 @@
+﻿Adhesive	Rare
+Amino Acids	Rare
+Analgesic	Rare
+Antimicrobial	Uncommon
+Aromatic	Rare
+Biosuppressant	Exotic
+Cosmetic	Uncommon
+Fiber	Common
+Gastronomic Delight	Unique
+Hallucinogen	Rare
+High-Tensile Spidroin	Unique
+Hypercatalyst	Exotic
+Immunostimulant	Unique
+Lubricant	Exotic
+Luxury Textile	Unique
+Membrane	Uncommon
+Memory Substrate	Unique
+Metabolic Agent	Common
+Neurologic	Unique
+Nutrient	Common
+Ornamental	Uncommon
+Pigment	Uncommon
+Polymer	Exotic
+Quark-Degenerate Tissues	Exotic
+Sealant	Uncommon
+Sedative	Rare
+Solvent	Exotic
+Spice	Uncommon
+Stimulant	Exotic
+Structural	Common
+Toxin	Common

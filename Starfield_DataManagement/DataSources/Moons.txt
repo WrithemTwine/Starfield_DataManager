@@ -1,0 +1,1001 @@
+﻿Al-Battani	Al-Battani I	Al-Battani I-A
+Al-Battani	Al-Battani I	Al-Battani I-B
+Al-Battani	Al-Battani I	Al-Battani I-C
+Al-Battani	Al-Battani III	Al-Battani III-A
+Al-Battani	Al-Battani III	Al-Battani III-B
+Al-Battani	Al-Battani IV	Al-Battani IV-A
+Al-Battani	Al-Battani IV	Al-Battani IV-B
+Al-Battani	Al-Battani V	Al-Battani V-A
+Al-Battani	Al-Battani VI	Al-Battani VI-A
+Al-Battani	Al-Battani VI	Al-Battani VI-B
+Al-Battani	Al-Battani VII	Al-Battani VII-A
+Al-Battani	Al-Battani VIII	Al-Battani VIII-A
+Alchiba	Alchiba II	Alchiba II-A
+Alchiba	Alchiba III	Alchiba III-A
+Alchiba	Alchiba III	Alchiba III-B
+Alchiba	Alchiba III	Alchiba III-C
+Alchiba	Alchiba IV	Alchiba IV-A
+Alchiba	Alchiba IX	Alchiba IX-A
+Alchiba	Alchiba V	Alchiba V-A
+Alchiba	Alchiba VI	Alchiba VI-A
+Alchiba	Alchiba VI	Alchiba VI-B
+Alchiba	Alchiba VI	Alchiba VI-C
+Alchiba	Alchiba VII	Alchiba VII-A
+Alchiba	Alchiba VII	Alchiba VII-B
+Alchiba	Alchiba VII	Alchiba VII-C
+Alchiba	Alchiba VII	Alchiba VII-D
+Alchiba	Alchiba VIII	Alchiba VIII-A
+Alchiba	Alchiba VIII	Alchiba VIII-B
+Alchiba	Alchiba X	Alchiba X-A
+Alchiba	Alchiba X	Alchiba X-B
+Algorab	Algorab III	Algorab III-A
+Algorab	Algorab III	Algorab III-B
+Algorab	Algorab III	Algorab III-C
+Algorab	Algorab III	Algorab III-D
+Algorab	Algorab III	Algorab III-E
+Alpha Andraste	Alpha Andraste I	Alpha Andraste I-A
+Alpha Centauri	Bondar	Curbeam
+Alpha Centauri	Bondar	Grissom
+Alpha Centauri	Jemison	Kurtz
+Alpha Centauri	Olivas	Chawla
+Alpha Centauri	Olivas	Hawley
+Alpha Centauri	Olivas	Lovell
+Alpha Centauri	Olivas	Voss
+Alpha Centauri	Olivas	Zamka
+Alpha Marae	Alpha Marae II	Alpha Marae II-A
+Alpha Marae	Alpha Marae III	Alpha Marae III-A
+Alpha Marae	Alpha Marae III	Alpha Marae III-B
+Alpha Marae	Alpha Marae III	Alpha Marae III-C
+Alpha Marae	Alpha Marae III	Alpha Marae III-D
+Alpha Marae	Alpha Marae IV	Alpha Marae IV-A
+Alpha Marae	Alpha Marae IV	Alpha Marae IV-B
+Alpha Ternion	Ternion III	Ternion III-A
+Alpha Ternion	Ternion IX	Ternion IX-A
+Alpha Ternion	Ternion IX	Ternion IX-B
+Alpha Ternion	Ternion IX	Ternion IX-C
+Alpha Ternion	Ternion IX	Ternion IX-D
+Alpha Ternion	Ternion V	Ternion V-A
+Alpha Ternion	Ternion V	Ternion V-B
+Alpha Ternion	Ternion VI	Ternion VI-A
+Alpha Tirna	Tirna II	Tirna II-A
+Alpha Tirna	Tirna III	Tirna III-A
+Alpha Tirna	Tirna III	Tirna III-B
+Alpha Tirna	Tirna III	Tirna III-C
+Alpha Tirna	Tirna IV	Tirna IV-A
+Alpha Tirna	Tirna VI	Tirna VI-A
+Alpha Tirna	Tirna VI	Tirna VI-B
+Alpha Tirna	Tirna VI	Tirna VI-C
+Alpha Tirna	Tirna VI	Tirna VI-D
+Alpha Tirna	Tirna VI	Tirna VI-E
+Alpha Tirna	Tirna VII	Tirna VII-A
+Alpha Tirna	Tirna VII	Tirna VII-B
+Alpha Tirna	Tirna VII	Tirna VII-C
+Alpha Tirna	Tirna VIII	Tirna VIII-A
+Alpha Tirna	Tirna VIII	Tirna VIII-B
+Alpha Tirna	Tirna VIII	Tirna VIII-C
+Alpha Tirna	Tirna VIII	Tirna VIII-D
+Alpha Tirna	Tirna VIII	Tirna VIII-E
+Alpha Tirna	Tirna X	Tirna X-A
+Alpha Tirna	Tirna X	Tirna X-B
+Alpha Tirna	Tirna X	Tirna X-C
+Altair	Altair III	Altair III-A
+Altair	Altair III	Altair III-B
+Altair	Altair III	Altair III-C
+Altair	Altair IV	Altair IV-A
+Altair	Altair IV	Altair IV-B
+Altair	Altair IV	Altair IV-C
+Altair	Altair IV	Altair IV-D
+Altair	Altair V	Altair V-A
+Andromas	Andromas IV	Andromas IV-A
+Andromas	Andromas V	Andromas V-A
+Andromas	Andromas V	Andromas V-B
+Andromas	Andromas VI	Andromas VI-A
+Andromas	Andromas VI	Andromas VI-B
+Aranae	Aranae II	Aranae II-A
+Aranae	Aranae II	Aranae II-B
+Aranae	Aranae IV	Aranae IV-A
+Aranae	Aranae IV	Aranae IV-B
+Aranae	Aranae IV	Aranae IV-C
+Aranae	Aranae IV	Aranae IV-D
+Archimedes	Archimedes I	Archimedes I-A
+Archimedes	Archimedes IV	Archimedes IV-A
+Archimedes	Archimedes V	Archimedes V-A
+Archimedes	Archimedes V	Archimedes V-B
+Archimedes	Archimedes VI	Archimedes VI-A
+Archimedes	Archimedes VI	Archimedes VI-B
+Arcturus	Arcturus III	Arcturus III-A
+Bannoc	Bannoc III	Bannoc III-A
+Bannoc	Bannoc IV	Bannoc IV-A
+Bannoc	Bannoc IV	Bannoc IV-B
+Bara	Bara II	Bara II-A
+Bara	Bara III	Bara III-A
+Bara	Bara V	Bara V-A
+Bara	Bara VI	Bara VI-A
+Bara	Bara VI	Bara VI-B
+Bara	Bara VI	Bara VI-C
+Bara	Bara VII	Bara VII-A
+Bara	Bara VII	Bara VII-B
+Bara	Bara VII	Bara VII-C
+Bara	Bara VII	Bara VII-D
+Bardeen	Bardeen I	Bardeen I-A
+Bardeen	Bardeen III	Bardeen III-A
+Bardeen	Bardeen III	Bardeen III-B
+Bardeen	Bardeen IV	Bardeen IV-A
+Bardeen	Bardeen V	Bardeen V-A
+Bardeen	Bardeen V	Bardeen V-B
+Bardeen	Bardeen V	Bardeen V-C
+Bardeen	Bardeen V	Bardeen V-D
+Bardeen	Bardeen V	Bardeen V-E
+Bardeen	Bardeen V	Bardeen V-F
+Bardeen	Bardeen VI	Bardeen VI-A
+Bardeen	Bardeen VI	Bardeen VI-B
+Bardeen	Bardeen VII	Bardeen VII-A
+Bel	Bel I	Bel I-A
+Bel	Bel II	Bel II-A
+Bel	Bel III	Bel III-A
+Bel	Bel III	Bel III-B
+Bel	Bel III	Bel III-C
+Bel	Bel IV	Bel IV-A
+Bel	Bel IV	Bel IV-B
+Bel	Bel IV	Bel IV-C
+Bel	Bel IV	Bel IV-D
+Bel	Bel IV	Bel IV-E
+Bel	Bel V	Bel V-A
+Bessel	Bessel III	Bessel III-A
+Bessel	Bessel III	Bessel III-B
+Beta Andraste	Beta Andraste I	Beta Andraste I-A
+Beta Andraste	Beta Andraste I	Beta Andraste I-B
+Beta Andraste	Beta Andraste I	Beta Andraste I-C
+Beta Andraste	Beta Andraste I	Beta Andraste I-D
+Beta Marae	Beta Marae I	Beta Marae I-A
+Beta Marae	Beta Marae II	Beta Marae II-A
+Beta Marae	Beta Marae II	Beta Marae II-B
+Beta Marae	Beta Marae III	Beta Marae III-A
+Beta Marae	Beta Marae IV	Beta Marae IV-A
+Beta Marae	Beta Marae IV	Beta Marae IV-B
+Beta Marae	Beta Marae IV	Beta Marae IV-C
+Beta Marae	Beta Marae IV	Beta Marae IV-D
+Beta Marae	Beta Marae V	Beta Marae V-A
+Beta Marae	Beta Marae V	Beta Marae V-B
+Beta Marae	Beta Marae V	Beta Marae V-C
+Beta Marae	Beta Marae V	Beta Marae V-D
+Beta Marae	Beta Marae VI	Beta Marae VI-A
+Beta Marae	Beta Marae VI	Beta Marae VI-B
+Beta Marae	Beta Marae VI	Beta Marae VI-C
+Beta Ternion	Beta Ternion I	Beta Ternion I-A
+Beta Ternion	Beta Ternion III	Beta Ternion III-A
+Bohr	Bohr I	Bohr I-A
+Bohr	Bohr III	Bohr III-A
+Bohr	Bohr III	Bohr III-B
+Bohr	Bohr VI	Bohr VI-A
+Bohr	Bohr VI	Bohr VI-B
+Bohr	Bohr VI	Bohr VI-C
+Bohr	Bohr VI	Bohr VI-D
+Bradbury	Bradbury I	Bradbury I-A
+Bradbury	Bradbury I	Bradbury I-B
+Bradbury	Bradbury IV	Bradbury IV-A
+Bradbury	Bradbury V	Bradbury V-A
+Carinae	Carinae II	Carinae II-A
+Carinae	Carinae III	Carinae III-A
+Carinae	Carinae III	Carinae III-B
+Carinae	Carinae III	Carinae III-C
+Carinae	Carinae III	Carinae III-D
+Carinae	Carinae IV	Carinae IV-A
+Carinae	Carinae V	Carinae V-A
+Carinae	Carinae V	Carinae V-B
+Carinae	Carinae V	Carinae V-C
+Celebrai	Celebrai III	Celebrai III-A
+Celebrai	Celebrai III	Celebrai III-B
+Celebrai	Celebrai III	Celebrai III-C
+Charybdis	Charybdis IV	Charybdis IV-A
+Charybdis	Charybdis V	Charybdis V-A
+Charybdis	Charybdis VI	Charybdis VI-A
+Charybdis	Charybdis VI	Charybdis VI-B
+Charybdis	Charybdis VII	Charybdis VII-A
+Charybdis	Charybdis VII	Charybdis VII-B
+Charybdis	Charybdis VII	Charybdis VII-C
+Charybdis	Charybdis VII	Charybdis VII-D
+Charybdis	Charybdis VIII	Charybdis VIII-A
+Charybdis	Charybdis VIII	Charybdis VIII-B
+Cheyenne	Agamon	Agamon A
+Cheyenne	Agamon	Agamon B
+Cheyenne	Agamon	Agamon C
+Cheyenne	Agamon	Agamon D
+Cheyenne	Akila	Antharum
+Cheyenne	Akila	Bindi
+Cheyenne	Akila	Codos
+Cheyenne	Burran	Grizzit
+Cheyenne	Burran	Rell
+Cheyenne	Fenn	Cragg
+Cheyenne	Fenn	Tahrnis
+Cheyenne	Montara	Heilo
+Cheyenne	Montara	Kalira
+Cheyenne	Montara	Montara Luna
+Cheyenne	Montara	Thren
+Cheyenne	Montara	Wellish
+Cheyenne	Navaha	Belwah
+Cheyenne	Navaha	Bismark
+Cheyenne	Navaha	Hardpoint
+Cheyenne	Navaha	Laramie
+Cheyenne	Navaha	Olaran
+Cheyenne	Stellis	Stellis A
+Cheyenne	Stellis	Stellis B
+Cheyenne	Stellis	Stellis C
+Cheyenne	Stellis	Stellis D
+Cheyenne	Washakie	Smet
+Copernicus	Copernicus III	Copernicus III-A
+Copernicus	Copernicus VII	Copernicus VII-A
+Copernicus	Copernicus VII	Copernicus VII-B
+Copernicus	Copernicus VIII	Copernicus VIII-A
+Copernicus	Copernicus VIII	Copernicus VIII-B
+Copernicus	Copernicus VIII	Copernicus VIII-C
+Copernicus	Copernicus VIII	Copernicus VIII-D
+Copernicus Minor	Copernicus Minor I	Copernicus Minor I-A
+Copernicus Minor	Copernicus Minor I	Copernicus Minor I-B
+Decaran	Decaran V	Decaran V-A
+Decaran	Decaran V	Decaran V-B
+Decaran	Decaran VI	Decaran VI-A
+Decaran	Decaran VII	Decaran VII-A
+Decaran	Decaran VII	Decaran VII-B
+Decaran	Decaran VIII	Decaran VIII-A
+Decaran	Decaran VIII	Decaran VIII-B
+Delta Pavonis	Arachna	Bitsy
+Delta Pavonis	Arachna	Itsy
+Delta Pavonis	Arachna	Worthless
+Delta Pavonis	Bode	Augur
+Delta Pavonis	Bode	Herald
+Delta Pavonis	Faraday	Ampere
+Delta Pavonis	Faraday	Coulomb
+Delta Pavonis	Faraday	Ohm
+Delta Pavonis	Faraday	Volt
+Delta Pavonis	Gamow	Bose
+Delta Pavonis	Nascent	Fundament
+Delta Pavonis	Nascent	Rudiment
+Delta Vulpes	Delta Vulpes III	Delta Vulpes III-A
+Delta Vulpes	Delta Vulpes IV	Delta Vulpes IV-A
+Delta Vulpes	Delta Vulpes V	Delta Vulpes V-A
+Delta Vulpes	Delta Vulpes V	Delta Vulpes V-B
+Delta Vulpes	Delta Vulpes V	Delta Vulpes V-C
+Delta Vulpes	Delta Vulpes V	Delta Vulpes V-D
+Delta Vulpes	Delta Vulpes V	Delta Vulpes V-E
+Delta Vulpes	Delta Vulpes VI	Delta Vulpes VI-A
+Denebola	Denebola I	Denebola I-A
+Denebola	Denebola I	Denebola I-B
+Denebola	Denebola II	Denebola II-A
+Denebola	Denebola III	Denebola III-A
+Denebola	Denebola III	Denebola III-B
+Enlil	Enlil I	Enlil I-A
+Enlil	Enlil II	Enlil II-A
+Enlil	Enlil IV	Enlil IV-A
+Enlil	Enlil VI	Enlil VI-A
+Enlil	Enlil VI	Enlil VI-B
+Enlil	Enlil VI	Enlil VI-C
+Enlil	Enlil VI	Enlil VI-D
+Enlil	Enlil VII	Enlil VII-A
+Eridani	Eridani III	Eridani III-A
+Eridani	Eridani III	Eridani III-B
+Eridani	Eridani III	Eridani III-C
+Eridani	Eridani IV	Eridani IV-A
+Eridani	Eridani IV	Eridani IV-B
+Eridani	Eridani IV	Eridani IV-C
+Eridani	Eridani VI	Eridani VI-A
+Eridani	Eridani VII	Eridani VII-A
+Eridani	Eridani VII	Eridani VII-B
+Eridani	Eridani VII	Eridani VII-C
+Eridani	Eridani VIII	Eridani VIII-A
+Eridani	Eridani VIII	Eridani VIII-B
+Eridani	Eridani VIII	Eridani VIII-C
+Eridani	Eridani VIII	Eridani VIII-D
+ETA Cassiopeia	Cassiopeia II	Cassiopeia II-A
+ETA Cassiopeia	Cassiopeia III	Cassiopeia III-A
+ETA Cassiopeia	Cassiopeia IV	Cassiopeia IV-A
+ETA Cassiopeia	Cassiopeia IV	Cassiopeia IV-B
+ETA Cassiopeia	Cassiopeia IV	Cassiopeia IV-C
+Fermi	Fermi II	Fermi II-A
+Fermi	Fermi III	Fermi III-A
+Fermi	Fermi III	Fermi III-B
+Fermi	Fermi IV	Fermi IV-A
+Fermi	Fermi IV	Fermi IV-B
+Fermi	Fermi IX	Fermi IX-A
+Fermi	Fermi IX	Fermi IX-B
+Fermi	Fermi IX	Fermi IX-C
+Fermi	Fermi IX	Fermi IX-D
+Fermi	Fermi IX	Fermi IX-E
+Fermi	Fermi V	Fermi V-A
+Fermi	Fermi VI	Fermi VI-A
+Fermi	Fermi VII	Fermi VII-A
+Fermi	Fermi VII	Fermi VII-B
+Fermi	Fermi VII	Fermi VII-C
+Fermi	Fermi VIII	Fermi VIII-A
+Fermi	Fermi VIII	Fermi VIII-B
+Fermi	Fermi VIII	Fermi VIII-C
+Fermi	Fermi VIII	Fermi VIII-D
+Feynman	Feynman IX	Feynman IX-A
+Feynman	Feynman V	Feynman V-A
+Feynman	Feynman V	Feynman V-B
+Feynman	Feynman VI	Feynman VI-A
+Feynman	Feynman VI	Feynman VI-B
+Feynman	Feynman VI	Feynman VI-C
+Feynman	Feynman VII	Feynman VII-A
+Feynman	Feynman VII	Feynman VII-B
+Feynman	Feynman VII	Feynman VII-C
+Feynman	Feynman VIII	Feynman VIII-A
+Feynman	Feynman VIII	Feynman VIII-B
+Feynman	Feynman VIII	Feynman VIII-C
+Feynman	Feynman VIII	Feynman VIII-D
+Feynman	Feynman VIII	Feynman VIII-E
+Foucault	Foucault I	Foucault I-A
+Foucault	Foucault I	Foucault I-B
+Foucault	Foucault II	Foucault II-A
+Foucault	Foucault II	Foucault II-B
+Foucault	Foucault III	Foucault III-A
+Foucault	Foucault III	Foucault III-B
+Foucault	Foucault V	Foucault V-A
+Foucault	Foucault V	Foucault V-B
+Foucault	Foucault V	Foucault V-C
+Foucault	Foucault V	Foucault V-D
+Foucault	Foucault VI	Foucault VI-A
+Foucault	Foucault VI	Foucault VI-B
+Foucault	Foucault VI	Foucault VI-C
+Foucault	Foucault VI	Foucault VI-D
+Foucault	Foucault VI	Foucault VI-E
+Foucault	Foucault VII	Foucault VII-A
+Foucault	Foucault VII	Foucault VII-B
+Foucault	Foucault VII	Foucault VII-C
+Foucault	Foucault VII	Foucault VII-D
+Foucault	Foucault VII	Foucault VII-E
+Foucault	Foucault VIII	Foucault VIII-A
+Freya	Freya IV	Freya IV-A
+Freya	Freya IV	Freya IV-B
+Freya	Freya IV	Freya IV-C
+Freya	Freya IX	Freya IX-A
+Freya	Freya IX	Freya IX-B
+Freya	Freya IX	Freya IX-C
+Freya	Freya VII	Freya VII-A
+Freya	Freya VIII	Freya VIII-A
+Gamma Vulpes	Gamma Vulpes II	Gamma Vulpes II-A
+Gamma Vulpes	Gamma Vulpes II	Gamma Vulpes II-B
+Gamma Vulpes	Gamma Vulpes II	Gamma Vulpes II-C
+Gamma Vulpes	Gamma Vulpes II	Gamma Vulpes II-D
+Gamma Vulpes	Gamma Vulpes III	Gamma Vulpes III-A
+Gamma Vulpes	Gamma Vulpes IV	Gamma Vulpes IV-A
+Gamma Vulpes	Gamma Vulpes IV	Gamma Vulpes IV-B
+Gamma Vulpes	Gamma Vulpes IV	Gamma Vulpes IV-C
+Gamma Vulpes	Gamma Vulpes IV	Gamma Vulpes IV-D
+Groombridge	Groombridge II	Groombridge II-A
+Groombridge	Groombridge II	Groombridge II-B
+Groombridge	Groombridge II	Groombridge II-C
+Groombridge	Groombridge III	Groombridge III-A
+Groombridge	Groombridge IV	Groombridge IV-A
+Groombridge	Groombridge V	Groombridge V-A
+Groombridge	Groombridge V	Groombridge V-B
+Groombridge	Groombridge V	Groombridge V-C
+Groombridge	Groombridge V	Groombridge V-D
+Groombridge	Groombridge V	Groombridge V-E
+Groombridge	Groombridge VI	Groombridge VI-A
+Groombridge	Groombridge VI	Groombridge VI-B
+Groombridge	Groombridge VII	Groombridge VII-A
+Groombridge	Groombridge VII	Groombridge VII-B
+Groombridge	Groombridge VIII	Groombridge VIII-A
+Groombridge	Groombridge VIII	Groombridge VIII-B
+Groombridge	Groombridge VIII	Groombridge VIII-C
+Groombridge	Groombridge VIII	Groombridge VIII-D
+Guniibuu	Guniibuu I	Guniibuu I-A
+Guniibuu	Guniibuu I	Guniibuu I-B
+Guniibuu	Guniibuu III	Guniibuu III-A
+Guniibuu	Guniibuu III	Guniibuu III-B
+Guniibuu	Guniibuu III	Guniibuu III-C
+Guniibuu	Guniibuu IV	Guniibuu IV-A
+Guniibuu	Guniibuu IV	Guniibuu IV-B
+Guniibuu	Guniibuu V	Guniibuu V-A
+Guniibuu	Guniibuu V	Guniibuu V-B
+Guniibuu	Guniibuu V	Guniibuu V-C
+Guniibuu	Guniibuu V	Guniibuu V-D
+Guniibuu	Guniibuu V	Guniibuu V-E
+Guniibuu	Guniibuu VI	Guniibuu VI-A
+Guniibuu	Guniibuu VI	Guniibuu VI-B
+Guniibuu	Guniibuu VI	Guniibuu VI-C
+Guniibuu	Guniibuu VI	Guniibuu VI-D
+Guniibuu	Guniibuu VI	Guniibuu VI-E
+Guniibuu	Guniibuu VII	Guniibuu VII-A
+Guniibuu	Guniibuu VII	Guniibuu VII-B
+Guniibuu	Guniibuu VII	Guniibuu VII-C
+Hawking	Hawking I	Hawking I-A
+Hawking	Hawking IV	Hawking IV-A
+Hawking	Hawking V	Hawking V-A
+Hawking	Hawking VI	Hawking VI-A
+Hawking	Hawking VI	Hawking VI-B
+Heinlein	Heinlein II	Heinlein II-A
+Heinlein	Heinlein II	Heinlein II-B
+Heinlein	Heinlein III	Heinlein III-A
+Heinlein	Heinlein IV	Heinlein IV-A
+Heinlein	Heinlein IV	Heinlein IV-B
+Heinlein	Heinlein IV	Heinlein IV-C
+Heinlein	Heinlein IV	Heinlein IV-D
+Heinlein	Heinlein IV	Heinlein IV-E
+Heinlein	Heinlein V	Heinlein V-A
+Heinlein	Heinlein V	Heinlein V-B
+Heinlein	Heinlein V	Heinlein V-C
+Heinlein	Heinlein VI	Heinlein VI-A
+Heinlein	Heinlein VI	Heinlein VI-B
+Heinlein	Heinlein VI	Heinlein VI-C
+Heinlein	Heinlein VI	Heinlein VI-D
+Heinlein	Heinlein VI	Heinlein VI-E
+Heisenberg	Heisenberg V	Heisenberg V-A
+Heisenberg	Heisenberg VI	Heisenberg VI-A
+Heisenberg	Heisenberg VI	Heisenberg VI-B
+Heisenberg	Heisenberg VI	Heisenberg VI-C
+Heisenberg	Heisenberg VII	Heisenberg VII-A
+Heisenberg	Heisenberg VIII	Heisenberg VIII-A
+Heisenberg	Heisenberg VIII	Heisenberg VIII-B
+Heisenberg	Heisenberg VIII	Heisenberg VIII-C
+Heisenberg	Heisenberg VIII	Heisenberg VIII-D
+Huygens	Huygens I	Huygens I-A
+Huygens	Huygens I	Huygens I-B
+Huygens	Huygens II	Huygens II-A
+Huygens	Huygens II	Huygens II-B
+Huygens	Huygens V	Huygens V-A
+Huygens	Huygens V	Huygens V-B
+Huygens	Huygens VI	Huygens VI-A
+Huygens	Huygens VII	Huygens VII-A
+Huygens	Huygens VII	Huygens VII-B
+Huygens	Huygens VII	Huygens VII-C
+Huygens	Huygens VII	Huygens VII-D
+Huygens	Huygens VII	Huygens VII-E
+Hyla	Hyla I	Hyla I-A
+Hyla	Hyla II	Hyla II-A
+Hyla	Hyla II	Hyla II-B
+Hyla	Hyla IV	Hyla IV-A
+Hyla	Hyla IV	Hyla IV-B
+Hyla	Hyla V	Hyla V-A
+Hyla	Hyla VI	Hyla VI-A
+Hyla	Hyla VI	Hyla VI-B
+Hyla	Hyla VII	Hyla VII-A
+Hyla	Hyla VIII	Hyla VIII-A
+Hyla	Hyla VIII	Hyla VIII-B
+Hyla	Hyla VIII	Hyla VIII-C
+Hyla	Hyla VIII	Hyla VIII-D
+Hyla	Hyla VIII	Hyla VIII-E
+Indum	Indum I	Indum I-A
+Indum	Indum III	Indum III-A
+Indum	Indum III	Indum III-B
+Indum	Indum III	Indum III-C
+Indum	Indum III	Indum III-D
+Indum	Indum IV	Indum IV-A
+Indum	Indum IV	Indum IV-B
+Indum	Indum IV	Indum IV-C
+Indum	Indum IV	Indum IV-D
+Indum	Indum V	Indum V-A
+Ixyll	Ixyll II	Ixyll II-A
+Ixyll	Ixyll III	Ixyll III-A
+Ixyll	Ixyll III	Ixyll III-B
+Ixyll	Ixyll IX	Ixyll IX-A
+Ixyll	Ixyll IX	Ixyll IX-B
+Ixyll	Ixyll IX	Ixyll IX-C
+Ixyll	Ixyll IX	Ixyll IX-D
+Ixyll	Ixyll VI	Ixyll VI-A
+Ixyll	Ixyll VI	Ixyll VI-B
+Ixyll	Ixyll VI	Ixyll VI-C
+Ixyll	Ixyll VI	Ixyll VI-D
+Ixyll	Ixyll VI	Ixyll VI-E
+Ixyll	Ixyll VII	Ixyll VII-A
+Ixyll	Ixyll VII	Ixyll VII-B
+Ixyll	Ixyll VII	Ixyll VII-C
+Ixyll	Ixyll VIII	Ixyll VIII-A
+Ixyll	Ixyll VIII	Ixyll VIII-B
+Jaffa	Jaffa I	Jaffa I-A
+Jaffa	Jaffa II	Jaffa II-A
+Jaffa	Jaffa IV	Jaffa IV-A
+Jaffa	Jaffa V	Jaffa V-A
+Jaffa	Jaffa VI	Jaffa VI-A
+Jaffa	Jaffa VI	Jaffa VI-B
+Jaffa	Jaffa VI	Jaffa VI-C
+Jaffa	Jaffa VII	Jaffa VII-A
+Jaffa	Jaffa VII	Jaffa VII-B
+Jaffa	Jaffa VII	Jaffa VII-C
+Jaffa	Jaffa VII	Jaffa VII-D
+Jaffa	Jaffa VII	Jaffa VII-E
+Kang	Kang IV	Kang IV-A
+Kang	Kang IV	Kang IV-B
+Kang	Kang IV	Kang IV-C
+Kang	Kang VI	Kang VI-A
+Kang	Kang VII	Kang VII-A
+Kang	Kang VII	Kang VII-B
+Kang	Kang VII	Kang VII-C
+Kang	Kang VII	Kang VII-D
+Kang	Kang VIII	Kang VIII-A
+Kang	Kang VIII	Kang VIII-B
+Kang	Kang VIII	Kang VIII-C
+Kang	Kang VIII	Kang VIII-D
+Katydid	Katydid I	Katydid I-A
+Katydid	Katydid I	Katydid I-B
+Khayyam	Khayyam I	Khayyam I-A
+Khayyam	Khayyam II	Khayyam II-A
+Khayyam	Khayyam III	Khayyam III-A
+Khayyam	Khayyam III	Khayyam III-B
+Khayyam	Khayyam III	Khayyam III-C
+Khayyam	Khayyam IV	Khayyam IV-A
+Khayyam	Khayyam V	Khayyam V-A
+Khayyam	Khayyam VI	Khayyam VI-A
+Khayyam	Khayyam VI	Khayyam VI-B
+Khayyam	Khayyam VI	Khayyam VI-C
+Khayyam	Khayyam VI	Khayyam VI-D
+Khayyam	Khayyam VI	Khayyam VI-E
+Kryx	Suvorov	Boron
+Kryx	Suvorov	Candore
+Kryx	Suvorov	Ice
+Kryx	Suvorov	Max
+Kryx	Suvorov	Neebas
+Kryx	Suvorov	Nox
+Kryx	Suvorov	Rocklock
+Kumasi	Kumasi I	Kumasi I-A
+Kumasi	Kumasi II	Kumasi II-A
+Kumasi	Kumasi III	Kumasi III-A
+Kumasi	Kumasi IV	Kumasi IV-A
+Kumasi	Kumasi IX	Kumasi IX-A
+Kumasi	Kumasi V	Kumasi V-A
+Kumasi	Kumasi V	Kumasi V-B
+Kumasi	Kumasi V	Kumasi V-C
+Kumasi	Kumasi V	Kumasi V-D
+Kumasi	Kumasi V	Kumasi V-E
+Kumasi	Kumasi VI	Kumasi VI-A
+Kumasi	Kumasi VII	Kumasi VII-A
+Kumasi	Kumasi VII	Kumasi VII-B
+Kumasi	Kumasi VII	Kumasi VII-C
+Kumasi	Kumasi VII	Kumasi VII-D
+Kumasi	Kumasi VIII	Kumasi VIII-A
+Kumasi	Kumasi VIII	Kumasi VIII-B
+Kumasi	Kumasi VIII	Kumasi VIII-C
+Kumasi	Kumasi VIII	Kumasi VIII-D
+Lantana	Lantana III	Lantana III-A
+Lantana	Lantana IX	Lantana IX-A
+Lantana	Lantana IX	Lantana IX-B
+Lantana	Lantana IX	Lantana IX-C
+Lantana	Lantana IX	Lantana IX-D
+Lantana	Lantana IX	Lantana IX-E
+Lantana	Lantana V	Lantana V-A
+Lantana	Lantana V	Lantana V-B
+Lantana	Lantana VIII	Lantana VIII-A
+Lantana	Lantana VIII	Lantana VIII-B
+Lantana	Lantana VIII	Lantana VIII-C
+Lantana	Lantana VIII	Lantana VIII-D
+Leonis	Leonis I	Leonis I-A
+Leonis	Leonis I	Leonis I-B
+Leonis	Leonis II	Leonis II-A
+Leonis	Leonis V	Leonis V-A
+Leonis	Leonis VI	Leonis VI-A
+Leonis	Leonis VIII	Leonis VIII-A
+Leonis	Leonis VIII	Leonis VIII-B
+Leonis	Leonis VIII	Leonis VIII-C
+Leviathan	Leviathan V	Leviathan V-A
+Leviathan	Leviathan VI	Leviathan VI-A
+Leviathan	Leviathan VI	Leviathan VI-B
+Linnaeus	Linnaeus II	Linnaeus II-A
+Linnaeus	Linnaeus III	Linnaeus III-A
+Linnaeus	Linnaeus IV	Linnaeus IV-A
+Linnaeus	Linnaeus IV	Linnaeus IV-B
+Linnaeus	Linnaeus IV	Linnaeus IV-C
+Lunara	Cassini	Abetti
+Lunara	Cassini	Gasparis
+Lunara	Cassini	Lillius
+Lunara	Cthol	Az-Valok
+Lunara	Cthol	Nyarloth
+Lunara	Cthol	Uvhan
+Lunara	Gaea	Coeus
+Lunara	Gaea	Crius
+Lunara	Numitor	Remus
+Lunara	Numitor	Romulus
+Lunara	Okoro	Okoro Alpha
+Lunara	Okoro	Okoro Beta
+Lunara	Okoro	Okoro Delta
+Lunara	Okoro	Okoro Epsilon
+Lunara	Okoro	Okoro Gamma
+Lunara	Petria	Earrach
+Lunara	Vesta	Vesta Lunaris
+Maal	Maal I	Maal I-A
+Maal	Maal I	Maal I-B
+Maal	Maal II	Maal II-A
+Maal	Maal III	Maal III-A
+Maal	Maal IX	Maal IX-A
+Maal	Maal IX	Maal IX-B
+Maal	Maal IX	Maal IX-C
+Maal	Maal IX	Maal IX-D
+Maal	Maal V	Maal V-A
+Maal	Maal VI	Maal VI-A
+Maal	Maal VI	Maal VI-B
+Maal	Maal VI	Maal VI-C
+Maal	Maal VIII	Maal VIII-A
+Maheo	Maheo III	Maheo III-A
+Maheo	Maheo III	Maheo III-B
+Maheo	Maheo IV	Maheo IV-A
+Maheo	Maheo IV	Maheo IV-B
+Maheo	Maheo IV	Maheo IV-C
+Maheo	Maheo IV	Maheo IV-D
+Maheo	Maheo V	Maheo V-A
+Maheo	Maheo VI	Maheo VI-A
+Maheo	Maheo VII	Maheo VII-A
+Marduk	Marduk I	Marduk I-A
+Marduk	Marduk III	Marduk III-A
+Marduk	Marduk IX	Marduk IX-A
+Marduk	Marduk IX	Marduk IX-B
+Marduk	Marduk V	Marduk V-A
+Marduk	Marduk VII	Marduk VII-A
+Marduk	Marduk VII	Marduk VII-B
+Marduk	Marduk VII	Marduk VII-C
+Marduk	Marduk VII	Marduk VII-D
+Masada	Masada IV	Masada IV-A
+Masada	Masada V	Masada V-A
+Masada	Masada V	Masada V-B
+Masada	Masada V	Masada V-C
+Masada	Masada VI	Masada VI-A
+Masada	Masada VII	Masada VII-A
+Masada	Masada VII	Masada VII-B
+Masada	Masada VIII	Masada VIII-A
+McClure	McClure I	McClure I-A
+McClure	McClure II	McClure II-A
+McClure	McClure II	McClure II-B
+McClure	McClure II	McClure II-C
+Moloch	Moloch I	Moloch I-A
+Moloch	Moloch V	Moloch V-A
+Moloch	Moloch V	Moloch V-B
+Moloch	Moloch V	Moloch V-C
+Moloch	Moloch V	Moloch V-D
+Moloch	Moloch VI	Moloch VI-A
+Moloch	Moloch VI	Moloch VI-B
+Muphrid	Muphrid I	Muphrid I-A
+Muphrid	Muphrid I	Muphrid I-B
+Muphrid	Muphrid II	Muphrid II-A
+Muphrid	Muphrid III	Muphrid III-A
+Muphrid	Muphrid III	Muphrid III-B
+Muphrid	Muphrid III	Muphrid III-C
+Muphrid	Muphrid V	Muphrid V-A
+Muphrid	Muphrid V	Muphrid V-B
+Muphrid	Muphrid V	Muphrid V-C
+Muphrid	Muphrid V	Muphrid V-D
+Muphrid	Muphrid VI	Muphrid VI-A
+Muphrid	Muphrid VI	Muphrid VI-B
+Muphrid	Muphrid VI	Muphrid VI-C
+Muphrid	Muphrid VI	Muphrid VI-D
+Muphrid	Muphrid VII	Muphrid VII-A
+Muphrid	Muphrid VII	Muphrid VII-B
+Muphrid	Muphrid VII	Muphrid VII-C
+Muphrid	Muphrid VIII	Muphrid VIII-A
+Muphrid	Muphrid VIII	Muphrid VIII-B
+Muphrid	Muphrid VIII	Muphrid VIII-C
+Muphrid	Muphrid VIII	Muphrid VIII-D
+Narion	Anselon	Kreet
+Narion	Anselon	Vectera
+Narion	Danra	Gryphus
+Narion	Danra	Podius
+Narion	Deepala	Dalvik
+Narion	Deepala	Grimsey
+Narion	Magreth	Hyperia
+Narion	Sumati	Andraphon
+Nemeria	Nemeria II	Nemeria II-A
+Nemeria	Nemeria II	Nemeria II-B
+Nemeria	Nemeria III	Nemeria III-A
+Nemeria	Nemeria IV	Nemeria IV-A
+Nemeria	Nemeria IV	Nemeria IV-B
+Nemeria	Nemeria V	Nemeria V-A
+Nemeria	Nemeria V	Nemeria V-B
+Nemeria	Nemeria V	Nemeria V-C
+Nemeria	Nemeria VI	Nemeria VI-A
+Nemeria	Nemeria VI	Nemeria VI-B
+Nemeria	Nemeria VI	Nemeria VI-C
+Nemeria	Nemeria VI	Nemeria VI-D
+Newton	Newton I	Newton I-A
+Newton	Newton II	Newton II-A
+Newton	Newton II	Newton II-B
+Newton	Newton V	Newton V-A
+Newton	Newton V	Newton V-B
+Newton	Newton V	Newton V-C
+Nikola	Nikola II	Nikola II-A
+Nikola	Nikola III	Nikola III-A
+Nikola	Nikola III	Nikola III-B
+Nikola	Nikola IV	Nikola IV-A
+Nikola	Nikola VI	Nikola VI-A
+Nikola	Nikola VI	Nikola VI-B
+Nikola	Nikola VII	Nikola VII-A
+Nikola	Nikola VIII	Nikola VIII-A
+Nikola	Nikola X	Nikola X-A
+Nirah	Nirah III	Nirah III-A
+Nirah	Nirah IV	Nirah IV-A
+Nirvana	Nirvana II	Nirvana II-A
+Nirvana	Nirvana III	Nirvana III-A
+Nirvana	Nirvana IV	Nirvana IV-A
+Oborum Prime	Oborum II	Oborum II-A
+Oborum Prime	Oborum II	Oborum II-B
+Oborum Prime	Oborum IV	Oborum IV-A
+Oborum Prime	Oborum IV	Oborum IV-B
+Oborum Prime	Oborum IV	Oborum IV-C
+Oborum Prime	Oborum IV	Oborum IV-D
+Olympus	Aion	Cybele
+Olympus	Aion	Dionysus
+Olympus	Aion	Mithras
+Olympus	Aion	Orphius
+Olympus	Erebus	Pontus
+Olympus	Erebus	Thalassa
+Olympus	Thanatos	Hypnos
+Ophion	Ophion I	Ophion I-A
+Piazzi	Piazzi III	Piazzi III-A
+Piazzi	Piazzi III	Piazzi III-B
+Piazzi	Piazzi IV	Piazzi IV-A
+Piazzi	Piazzi IV	Piazzi IV-B
+Piazzi	Piazzi IV	Piazzi IV-C
+Piazzi	Piazzi V	Piazzi V-A
+Piazzi	Piazzi V	Piazzi V-B
+Piazzi	Piazzi V	Piazzi V-C
+Piazzi	Piazzi VI	Piazzi VI-A
+Piazzi	Piazzi VI	Piazzi VI-B
+Piazzi	Piazzi VI	Piazzi VI-C
+Piazzi	Piazzi VII	Piazzi VII-A
+Piazzi	Piazzi VII	Piazzi VII-B
+Piazzi	Piazzi VII	Piazzi VII-C
+Porrima	Porrima I	Porrima I-A
+Porrima	Porrima I	Porrima I-B
+Porrima	Porrima II	Porrima II-A
+Porrima	Porrima II	Porrima II-B
+Porrima	Porrima II	Porrima II-C
+Porrima	Porrima III	Porrima III-A
+Porrima	Porrima III	Porrima III-B
+Porrima	Porrima IV	Porrima IV-A
+Porrima	Porrima IV	Porrima IV-B
+Porrima	Porrima IV	Porrima IV-C
+Porrima	Porrima IV	Porrima IV-D
+Porrima	Porrima V	Porrima V-A
+Porrima	Porrima V	Porrima V-B
+Porrima	Porrima V	Porrima V-C
+Porrima	Porrima VI	Porrima VI-A
+Procyon A	Procyon I	Procyon I-A
+Procyon A	Procyon III	Procyon III-A
+Procyon A	Procyon IV	Procyon IV-A
+Procyon A	Procyon V	Procyon V-A
+Procyon A	Procyon V	Procyon V-B
+Procyon A	Procyon V	Procyon V-C
+Procyon A	Procyon VI	Procyon VI-A
+Procyon A	Procyon VI	Procyon VI-B
+Procyon A	Procyon VI	Procyon VI-C
+Proxima Ternion	Proxima Ternion I	Proxima Ternion I-A
+Proxima Ternion	Proxima Ternion I	Proxima Ternion I-B
+Proxima Ternion	Proxima Ternion I	Proxima Ternion I-C
+Proxima Ternion	Proxima Ternion IV	Proxima Ternion IV-A
+Pyraas	Pyraas II	Pyraas II-A
+Pyraas	Pyraas III	Pyraas III-A
+Pyraas	Pyraas III	Pyraas III-B
+Pyraas	Pyraas VI	Pyraas VI-A
+Pyraas	Pyraas VI	Pyraas VI-B
+Pyraas	Pyraas VI	Pyraas VI-C
+Pyraas	Pyraas VI	Pyraas VI-D
+Pyraas	Pyraas VII	Pyraas VII-A
+Pyraas	Pyraas VII	Pyraas VII-B
+Pyraas	Pyraas VIII	Pyraas VIII-A
+Pyraas	Pyraas VIII	Pyraas VIII-B
+Pyraas	Pyraas VIII	Pyraas VIII-C
+Pyraas	Pyraas VIII	Pyraas VIII-D
+Rana	Rana I	Rana I-A
+Rana	Rana I	Rana I-B
+Rana	Rana I	Rana I-C
+Rana	Rana II	Rana II-A
+Rana	Rana III	Rana III-A
+Rana	Rana IX	Rana IX-A
+Rana	Rana IX	Rana IX-B
+Rana	Rana V	Rana V-A
+Rana	Rana VI	Rana VI-A
+Rana	Rana VI	Rana VI-B
+Rana	Rana VI	Rana VI-C
+Rana	Rana VI	Rana VI-D
+Rana	Rana VI	Rana VI-E
+Rana	Rana VII	Rana VII-A
+Rana	Rana VII	Rana VII-B
+Rasalhague	Rasalhague I	Rasalhague I-A
+Rasalhague	Rasalhague III	Rasalhague III-A
+Rasalhague	Rasalhague III	Rasalhague III-B
+Rivera	Rivera I	Rivera I-A
+Rivera	Rivera II	Rivera II-A
+Rivera	Rivera II	Rivera II-B
+Rivera	Rivera II	Rivera II-C
+Rivera	Rivera IV	Rivera IV-A
+Rivera	Rivera V	Rivera V-A
+Rutherford	Rutherford I	Rutherford I-A
+Rutherford	Rutherford I	Rutherford I-B
+Rutherford	Rutherford II	Rutherford II-A
+Rutherford	Rutherford III	Rutherford III-A
+Rutherford	Rutherford IV	Rutherford IV-A
+Rutherford	Rutherford IV	Rutherford IV-B
+Rutherford	Rutherford IV	Rutherford IV-C
+Rutherford	Rutherford IV	Rutherford IV-D
+Rutherford	Rutherford IV	Rutherford IV-E
+Rutherford	Rutherford V	Rutherford V-A
+Rutherford	Rutherford V	Rutherford V-B
+Rutherford	Rutherford VI	Rutherford VI-A
+Rutherford	Rutherford VI	Rutherford VI-B
+Rutherford	Rutherford VI	Rutherford VI-C
+Rutherford	Rutherford VI	Rutherford VI-D
+Sakharov	Bonner	Mir II
+Schrodinger	Schrodinger I	Schrodinger I-A
+Schrodinger	Schrodinger III	Schrodinger III-A
+Schrodinger	Schrodinger V	Schrodinger V-A
+Schrodinger	Schrodinger VI	Schrodinger VI-A
+Schrodinger	Schrodinger VI	Schrodinger VI-B
+Schrodinger	Schrodinger VI	Schrodinger VI-C
+Schrodinger	Schrodinger VII	Schrodinger VII-A
+Schrodinger	Schrodinger VII	Schrodinger VII-B
+Schrodinger	Schrodinger VII	Schrodinger VII-C
+Schrodinger	Schrodinger VIII	Schrodinger VIII-A
+Schrodinger	Schrodinger VIII	Schrodinger VIII-B
+Schrodinger	Schrodinger VIII	Schrodinger VIII-C
+Schrodinger	Schrodinger VIII	Schrodinger VIII-D
+Schrodinger	Schrodinger VIII	Schrodinger VIII-E
+Serpentis	Serpentis II	Serpentis II-A
+Serpentis	Serpentis II	Serpentis II-B
+Serpentis	Serpentis IV	Serpentis IV-A
+Serpentis	Serpentis V	Serpentis V-A
+Serpentis	Serpentis V	Serpentis V-B
+Serpentis	Serpentis V	Serpentis V-C
+Serpentis	Serpentis V	Serpentis V-D
+Serpentis	Serpentis VI	Serpentis VI-A
+Serpentis	Serpentis VI	Serpentis VI-B
+Shoza	Shoza I	Shoza I-A
+Shoza	Shoza II	Shoza II-A
+Shoza	Shoza III	Shoza III-A
+Shoza	Shoza VI	Shoza VI-A
+Shoza	Shoza VII	Shoza VII-A
+Shoza	Shoza VII	Shoza VII-B
+Shoza	Shoza VII	Shoza VII-C
+Shoza	Shoza VIII	Shoza VIII-A
+Shoza	Shoza VIII	Shoza VIII-B
+Shoza	Shoza VIII	Shoza VIII-C
+Shoza	Shoza VIII	Shoza VIII-D
+Sirius	Sirius II	Sirius II-A
+Sirius	Sirius III	Sirius III-A
+Sirius	Sirius III	Sirius III-B
+Sol	Earth	Luna
+Sol	Jupiter	Callisto
+Sol	Jupiter	Europa
+Sol	Jupiter	Ganymede
+Sol	Jupiter	Io
+Sol	Mars	Deimos
+Sol	Mars	Phobos
+Sol	Neptune	Triton
+Sol	Pluto	Charon
+Sol	Saturn	Dione
+Sol	Saturn	Enceladus
+Sol	Saturn	Iapetus
+Sol	Saturn	Mimas
+Sol	Saturn	Rhea
+Sol	Saturn	Tethys
+Sol	Saturn	Titan
+Sol	Uranus	Ariel
+Sol	Uranus	Miranda
+Sol	Uranus	Oberon
+Sol	Uranus	Titania
+Sol	Uranus	Umbriel
+Sparta	Sparta II	Sparta II-A
+Sparta	Sparta II	Sparta II-B
+Sparta	Sparta III	Sparta III-A
+Sparta	Sparta V	Sparta V-A
+Sparta	Sparta VI	Sparta VI-A
+Sparta	Sparta VI	Sparta VI-B
+Sparta	Sparta VI	Sparta VI-C
+Sparta	Sparta VII	Sparta VII-A
+Sparta	Sparta VII	Sparta VII-B
+Sparta	Sparta VII	Sparta VII-C
+Sparta	Sparta VIII	Sparta VIII-A
+Sparta	Sparta VIII	Sparta VIII-B
+Sparta	Sparta VIII	Sparta VIII-C
+Strix	Strix I	Strix I-A
+Strix	Strix III	Strix III-A
+Strix	Strix III	Strix III-B
+Strix	Strix III	Strix III-C
+Strix	Strix III	Strix III-D
+Strix	Strix IV	Strix IV-A
+Strix	Strix VI	Strix VI-A
+Strix	Strix VI	Strix VI-B
+Strix	Strix VI	Strix VI-C
+Syrma	Syrma I	Syrma I-A
+Syrma	Syrma I	Syrma I-B
+Syrma	Syrma II	Syrma II-A
+Syrma	Syrma IV	Syrma IV-A
+Syrma	Syrma V	Syrma V-A
+Syrma	Syrma VI	Syrma VI-A
+Syrma	Syrma VI	Syrma VI-B
+Syrma	Syrma VI	Syrma VI-C
+Syrma	Syrma VI	Syrma VI-D
+Syrma	Syrma VII	Syrma VII-A
+Syrma	Syrma VII	Syrma VII-B
+Tau Ceti	Tau Ceti II	Tau Ceti II-A
+Tau Ceti	Tau Ceti IV	Tau Ceti IV-A
+Tau Ceti	Tau Ceti IV	Tau Ceti IV-B
+Tau Ceti	Tau Ceti VI	Tau Ceti VI-A
+Tau Ceti	Tau Ceti VII	Tau Ceti VII-A
+Tau Ceti	Tau Ceti VIII	Tau Ceti VIII-A
+Tau Ceti	Tau Ceti VIII	Tau Ceti VIII-B
+Tau Ceti	Tau Ceti VIII	Tau Ceti VIII-C
+Tau Ceti	Tau Ceti VIII	Tau Ceti VIII-D
+Tidacha	Tidacha I	Tidacha I-A
+Tidacha	Tidacha I	Tidacha I-B
+Tidacha	Tidacha I	Tidacha I-C
+Toliman	Toliman II	Toliman II-A
+Toliman	Toliman II	Toliman II-B
+Toliman	Toliman II	Toliman II-C
+Ursae Majoris	Ursa Major I	Ursa Major I-A
+Ursae Majoris	Ursa Major I	Ursa Major I-B
+Ursae Majoris	Ursa Major I	Ursa Major I-C
+Ursae Minoris	Ursa Minor I	Ursa Minor I-A
+Ursae Minoris	Ursa Minor I	Ursa Minor I-B
+Ursae Minoris	Ursa Minor II	Ursa Minor II-A
+Valo	Lumos	Golga
+Valo	Lumos	Kindi
+Valo	Lumos	Shorun
+Valo	Lumos	Virum
+Valo	Polvo	Miatha
+Valo	Polvo	Navacci
+Vega	Vega I	Vega I-A
+Vega	Vega I	Vega I-B
+Vega	Vega I	Vega I-C
+Vega	Vega II	Vega II-A
+Vega	Vega II	Vega II-B
+Vega	Vega II	Vega II-C
+Vega	Vega II	Vega II-D
+Vega	Vega II	Vega II-E
+Verne	Verne I	Verne I-A
+Verne	Verne II	Verne II-A
+Verne	Verne III	Verne III-A
+Verne	Verne VI	Verne VI-A
+Verne	Verne VI	Verne VI-B
+Verne	Verne VII	Verne VII-A
+Verne	Verne VII	Verne VII-B
+Verne	Verne VII	Verne VII-C
+Verne	Verne VII	Verne VII-D
+Verne	Verne VII	Verne VII-E
+Volii	Volii Beta	Volii Delta
+Volii	Volii Epsilon	Volii Gamma
+Volii	Volii Omega	Volii Upsilon
+Volii	Volii Tau	Volii Phi
+Volii	Volii Tau	Volii Psi
+Wolf	Etherea	Pontem
+Xi Ophiuchi	Xi Ophiuchi III	Xi Ophiuchi III-A
+Xi Ophiuchi	Xi Ophiuchi V	Xi Ophiuchi V-A
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-A
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-B
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-C
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-D
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-E
+Xi Ophiuchi	Xi Ophiuchi VII	Xi Ophiuchi VII-A
+Xi Ophiuchi	Xi Ophiuchi VII	Xi Ophiuchi VII-B
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-A
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-B
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-C
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-D
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-E
+Zelazny	Zelazny II	Zelazny II-A
+Zelazny	Zelazny VII	Zelazny VII-A
+Zelazny	Zelazny VII	Zelazny VII-B
+Zelazny	Zelazny VII	Zelazny VII-C
+Zelazny	Zelazny VII	Zelazny VII-D
+Zelazny	Zelazny VIII	Zelazny VIII-A
+Zelazny	Zelazny VIII	Zelazny VIII-B
+Zelazny	Zelazny VIII	Zelazny VIII-C
+Zelazny	Zelazny VIII	Zelazny VIII-D
+Zelazny	Zelazny VIII	Zelazny VIII-E
+Zeta Ophiuchi	Zeta Ophiuchi III	Zeta Ophiuchi III-A
+Zeta Ophiuchi	Zeta Ophiuchi IV	Zeta Ophiuchi IV-A
+Zeta Ophiuchi	Zeta Ophiuchi IV	Zeta Ophiuchi IV-B
+Zeta Ophiuchi	Zeta Ophiuchi IV	Zeta Ophiuchi IV-C
+Zeta Ophiuchi	Zeta Ophiuchi IV	Zeta Ophiuchi IV-D
+Zeta Ophiuchi	Zeta Ophiuchi IV	Zeta Ophiuchi IV-E
+Zeta Ophiuchi	Zeta Ophiuchi V	Zeta Ophiuchi V-A
+Zeta Ophiuchi	Zeta Ophiuchi V	Zeta Ophiuchi V-B
+Zeta Ophiuchi	Zeta Ophiuchi VI	Zeta Ophiuchi VI-A
+Zeta Ophiuchi	Zeta Ophiuchi VI	Zeta Ophiuchi VI-B
+Zeta Ophiuchi	Zeta Ophiuchi VI	Zeta Ophiuchi VI-C
+Zeta Ophiuchi	Zeta Ophiuchi VI	Zeta Ophiuchi VI-D
+Zeta Ophiuchi	Zeta Ophiuchi VI	Zeta Ophiuchi VI-E
+Zosma	Zosma I	Zosma I-A
+Zosma	Zosma III	Zosma III-A
+Zosma	Zosma IV	Zosma IV-A
+Zosma	Zosma IV	Zosma IV-B
+Zosma	Zosma IV	Zosma IV-C
+Zosma	Zosma V	Zosma V-A
+Zosma	Zosma V	Zosma V-B
+Zosma	Zosma V	Zosma V-C

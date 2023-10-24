@@ -1,0 +1,73 @@
+﻿Cheyenne	Agamon	Agamon A	H2O, Cu, Ar	Ice	Deep Freeze
+Cheyenne	Agamon	Agamon B	H2O, Cu	Ice	Deep Freeze
+Cheyenne	Agamon	Agamon C	H2O, Ar, C6Hn	Ice	Deep Freeze
+Cheyenne	Agamon	Agamon D	H2O, Cu	Ice	Deep Freeze
+Cheyenne	Agamon	Planet	None	Ice Giant	Deep Freeze
+Cheyenne	Akila	Antharum	He-3, Al, Be, Nd	Barren	Temperate
+Cheyenne	Akila	Bindi	He-3, Al, Ni, Pb, U, Ag	Barren	Temperate
+Cheyenne	Akila	Codos	H2O, Al, Cl, Fe, Ar, Be, HnCn, R-COC	Rock	Temperate
+Cheyenne	Akila	Planet	H2O, Al, Ni, Ar, C6Hn, Co	Rock	Temperate
+Cheyenne	Burran	Grizzit	He-3, Al, Be	Barren	Frozen
+Cheyenne	Burran	Planet	He-3, Fe	Barren	Frozen
+Cheyenne	Burran	Rell	He-3, Al, Be	Barren	Frozen
+Cheyenne	Fenn	Cragg	H2O, Cu, Fe, Pb, Ag, xF4	Rock	Deep Freeze
+Cheyenne	Fenn	Planet	None	Gas Giant	Deep Freeze
+Cheyenne	Fenn	Tahrnis	H2O, Cu	Ice	Deep Freeze
+Cheyenne	Montara	Heilo	H2O, Pb, W, Ti	Ice	Deep Freeze
+Cheyenne	Montara	Kalira	H2O, Cu, F, Au	Ice	Deep Freeze
+Cheyenne	Montara	Montara Luna	H2O, Al, Cl, Ni, Ar, C6Hn, Co, R-COC	Rock	Temperate
+Cheyenne	Montara	Planet	None	Gas Giant	Deep Freeze
+Cheyenne	Montara	Thren	H2O, Pb, W	Ice	Deep Freeze
+Cheyenne	Montara	Wellish	H2O, Cu, IL	Ice	Deep Freeze
+Cheyenne	Navaha	Belwah	H2O, Ni, Fe, U, Ar, Co, Ir, V	Rock	Deep Freeze
+Cheyenne	Navaha	Bismark	H2O, Ni, Co	Ice	Deep Freeze
+Cheyenne	Navaha	Hardpoint	H2O, He-3, Al, Cu, Fe, F, Yb	Rock	Deep Freeze
+Cheyenne	Navaha	Laramie	H2O, Cl	Ice	Deep Freeze
+Cheyenne	Navaha	Olaran	H2O, Ar, C6Hn	Ice	Deep Freeze
+Cheyenne	Navaha	Planet	None	Gas Giant	Deep Freeze
+Cheyenne	Skink	Planet	H2O, Cu, Ni, Pb, F, Co, Ag, Hg	Rock	Inferno
+Cheyenne	Stellis	Planet	None	Gas Giant	Deep Freeze
+Cheyenne	Stellis	Stellis A	H2O, Cu, Ni, Co, Au	Ice	Deep Freeze
+Cheyenne	Stellis	Stellis B	H2O, Cl	Ice	Deep Freeze
+Cheyenne	Stellis	Stellis C	H2O, Ni, Co	Ice	Deep Freeze
+Cheyenne	Stellis	Stellis D	H2O, Ni, Co, Pt, Pd	Ice	Deep Freeze
+Cheyenne	Washakie	Planet	H2O, Pb, U, Ar, C6Hn, Ag, Ne	Rock	Frozen
+Cheyenne	Washakie	Smet	He-3, Al, Be, Eu	Barren	Frozen
+Lunara	Vesta	Planet	H2O, Cl, Cu, Pb, Ar, C6Hn, F, Hg		
+Lunara	Vesta	Vesta Lunaris	He-3, Al		
+Olympus	Aion	Cybele	He-3, Al	Barren	Deep Freeze
+Olympus	Aion	Dionysus	H2O, Cl, Ni, Fe, Pb, U, C6Hn, HnCn	Rock	Temperate
+Olympus	Aion	Mithras	H2O, Ni, Co, Pd	Ice	Deep Freeze
+Olympus	Aion	Orphius	He-3, Fe	Barren	Deep Freeze
+Olympus	Aion	Planet	None	Gas Giant	Deep Freeze
+Olympus	Ananke	Planet	He-3, Al, Eu	Barren	Deep Freeze
+Olympus	Erebus	Planet	Fe, U, HnCn	Rock	Frozen
+Olympus	Erebus	Pontus	He-3, Al, Be	Barren	Frozen
+Olympus	Erebus	Thalassa	He-3, Al	Barren	Frozen
+Olympus	Nesoi	Planet	H2O, Fe, U, Ar, C6Hn, Ir, Ta, R-COC	Rock	Temperate
+Olympus	Ourea	Planet	H2O, Cu, U, Ar, C6Hn, Ir, V, R-COC	Rock	Frozen
+Olympus	Thanatos	Hypnos	H2O, Ar, C6Hn	Ice Giant	Deep Freeze
+Olympus	Thanatos	Planet	None	Ice Giant	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi I	Planet	He-3, Al, Be	Barren	Inferno
+Xi Ophiuchi	Xi Ophiuchi II	Planet	H2O, Ni, Fe, U, V	Rock	Inferno
+Xi Ophiuchi	Xi Ophiuchi III	Planet	Cu, Fe, U, F, HnCn, Ir, Sb, Yb	Rock	Inferno
+Xi Ophiuchi	Xi Ophiuchi III	Xi Ophiuchi III-A	He-3, Fe	Barren	Temperate
+Xi Ophiuchi	Xi Ophiuchi IV	Planet	H2O, Cl, Ni, F	Rock	Cold
+Xi Ophiuchi	Xi Ophiuchi IX	Planet	He-3, Fe	Barren	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi V	Planet	H2O, Cu, Ni, Pb, F, Co, xF4, Pt	Rock	Cold
+Xi Ophiuchi	Xi Ophiuchi V	Xi Ophiuchi V-A	He-3, Fe, Yb	Barren	Cold
+Xi Ophiuchi	Xi Ophiuchi VI	Planet	None	Gas Giant	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-A	H2O, Cl, SiH3Cl	Ice	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-B	H2O, Cu, F	Ice	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-C	H2O, Ni	Ice	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-D	H2O, Ni, Pb, U, Co, Ir, Pt	Rock	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VI	Xi Ophiuchi VI-E	H2O, Cl, Pb, U, W, Ir, V, Dy	Rock	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VII	Planet	None	Gas Giant	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VII	Xi Ophiuchi VII-A	H2O, Cl, Ni, Pb, SiH3Cl, Ag, Li, Hg	Rock	Temperate
+Xi Ophiuchi	Xi Ophiuchi VII	Xi Ophiuchi VII-B	H2O, Cl, Ni, Pb, Ar, Co, Pt, R-COC	Rock	Temperate
+Xi Ophiuchi	Xi Ophiuchi VIII	Planet	None	Gas Giant	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-A	H2O, Cu	Ice	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-B	H2O, Cl, Ni, Fe	Rock	Cold
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-C	H2O, He-3, Al, Pb, U, Ar, Ag, V	Rock	Temperate
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-D	H2O, Ar, C6Hn	Ice	Deep Freeze
+Xi Ophiuchi	Xi Ophiuchi VIII	Xi Ophiuchi VIII-E	H2O, Cl, SiH3Cl	Ice	Deep Freeze
